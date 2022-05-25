@@ -1,4 +1,4 @@
-# M Danial: SysAdmin & Back-end
+# Back-end & SysAdmin
 ### Social Media
 <p align="left">
   <a href="https://linkedin.com/in/mdanialr">
