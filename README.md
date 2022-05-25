@@ -22,6 +22,6 @@
   </a>
   &nbsp
   <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanialr">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanialr&hide=blade,shell&langs_count=4&layout=compact&border_radius=10&bg_color=21272e&title_color=4790f0&text_color=a8bac7&border_color=a8bac7" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdanialr&hide=blade,shell&langs_count=4&layout=compact&card_width=230&border_radius=10&bg_color=21272e&title_color=4790f0&text_color=a8bac7&border_color=a8bac7" />
   </a>
 </p>
