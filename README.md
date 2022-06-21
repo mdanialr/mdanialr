@@ -1,4 +1,4 @@
-# Back-end & SysAdmin
+# Back end & SysAdmin
 ### Social Media
 <p align="left">
   <a href="https://linkedin.com/in/mdanialr">
